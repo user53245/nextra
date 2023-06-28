@@ -1,4 +1,6 @@
 # Nextra
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fuser53245%2Fnextra.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fuser53245%2Fnextra?ref=badge_shield)
+
 
 Simple, powerful and flexible site generation framework with everything you love
 from Next.js.
@@ -51,3 +53,7 @@ Any change to example/docs will be re-rendered instantly.
 
 If you update the core or theme packages, a rebuild is required. Or you can use
 the watch mode for both nextra and the theme in separated terminals.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fuser53245%2Fnextra.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fuser53245%2Fnextra?ref=badge_large)
